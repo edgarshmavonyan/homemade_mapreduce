@@ -1,7 +1,7 @@
 ### My homemade MapReduce.
 
 Supported operations are
-1. Map, having key-value output.
+1. Map from text, having key-value output.
 2. MapReduce, taking 1st operation and Reducing to key-value.
 
 There is not much work to implement standalone reduce, or some other types of operations in MR paradigm, as I tried to implement it scalable and having a nice friendly interface.
